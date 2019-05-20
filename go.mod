@@ -1,4 +1,4 @@
-module hello
+module github.com/lakinduakash/hello
 
 go 1.12
 
