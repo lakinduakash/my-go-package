@@ -1,4 +1,4 @@
-package main
+package awsom_pcakage
 
 import (
 	"fmt"
@@ -10,7 +10,7 @@ func Cool() {
 	fmt.Print("cool")
 }
 
-func main() {
+func Cool2() {
 	fmt.Print("hello")
 	quote.Hello()
 }
