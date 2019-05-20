@@ -5,10 +5,10 @@ import (
 )
 
 func Cool() {
-	fmt.Print("cool")
+	fmt.Println("cool")
 }
 
 func Cool2() {
-	fmt.Print("hello")
+	fmt.Println("cool2")
 
 }
